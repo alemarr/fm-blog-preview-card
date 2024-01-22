@@ -30,7 +30,7 @@ Users should be able to:
 
 I was going to go with SCSS to practise but decided to go with pure CSS. 
 
-I solved this in around 2hs and measuring the sizes by eye, so it mighe need several improvements.
+I solved this in around 2hs and measuring the sizes by eye, so it might need several improvements.
 
 Also thought of showing the `attribution` div in the bottom but I'm keeping it hidden to make the solution match the design.
 
