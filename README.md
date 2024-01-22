@@ -28,7 +28,7 @@ Users should be able to:
 
 ## My process
 
-I was going to go with SCSS to practise but decided to go with pure CSS. 
+I was going to go with SCSS to practice but decided to go with pure CSS. 
 
 I solved this in around 2hs and measuring the sizes by eye, so it might need several improvements.
 
