@@ -108,13 +108,13 @@ main {
 @media (min-width: 376px) {
     .card {
         max-width: 320px;
-        padding: 16px;
+        padding: 20px;
     }
 
     .card__header__img img {
         width: 320px;
-        height: 200px;
-        border-radius: 10px;
+        border-radius: 8%;
+        object-fit: contain;
     }
 
     .card__body__content {
