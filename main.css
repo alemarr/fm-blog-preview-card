@@ -105,6 +105,25 @@ main {
     width: fit-content;
 }
 
+@media (min-width: 376px) {
+    .card {
+        max-width: 320px;
+        padding: 16px;
+    }
+
+    .card__header__img img {
+        width: 320px;
+        height: 200px;
+        border-radius: 10px;
+    }
+
+    .card__body__content {
+        color: var(--grey);
+        line-height: 24px;
+        font-size: 16px;
+    }
+}
+
 .attribution {
     display: none;
     font-size: 11px;
